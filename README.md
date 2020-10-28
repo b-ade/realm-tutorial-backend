@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mongodb-university/realm-tutorial-backend)
+
 # Get Started
 
 ## 1. Install `mongodb-realm-cli`
