@@ -1,0 +1,4 @@
+tasks:
+  - before: npm install -g mongodb-realm-cli && realm-cli --version
+    init: realm-cli login --api-key $pub_key --private-api-key $pri_key
+    command: realm-cli whoami
